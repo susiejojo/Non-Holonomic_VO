@@ -23,3 +23,7 @@
 ### Optimizer:
 
 `fmincon` with linearised VO constraints using Mathematica. 
+
+### Results:
+
+Resultant simulations can be found in /results. 
